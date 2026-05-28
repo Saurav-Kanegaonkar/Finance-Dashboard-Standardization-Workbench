@@ -1,6 +1,7 @@
 # Analysis Plan
 
-1. Aggregate daily metrics at reporting metric grain.
-2. Join events and action candidates to find high-risk operating segments.
-3. Rank the queue by risk, quality, and estimated impact.
-4. Convert the top issues into stakeholder-ready recommendations.
+1. Generate healthcare finance reporting data at dashboard, metric, requirement, refresh, quality, actuals, and SAC handoff grains.
+2. Score dashboard standardization need using certified KPI coverage, visual format score, refresh failures, quality pressure, manual reporting effort, high-priority requirements, and SAC coverage gaps.
+3. Rank requirements by stakeholder priority, business impact, and complexity.
+4. Rank quality issues by severity, failure rate, and age.
+5. Package the outputs into an application payload for the static reporting workbench.

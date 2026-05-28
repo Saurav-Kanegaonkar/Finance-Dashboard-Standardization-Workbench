@@ -1,0 +1,97 @@
+check_id,dashboard_id,dashboard_name,source_system,check_name,category,fail_rate_pct,severity,open_days,recommended_fix
+QC-001,FIN-002,Service line margin review,Workday Payroll,Duplicate monthly close row,Completeness,9.5,Low,10,add refresh alert and retry rule
+QC-002,FIN-001,Monthly close executive packet,Strata Planning,Duplicate monthly close row,Completeness,15.5,Medium,35,lock metric definition in catalog
+QC-003,GOV-001,Metric certification tracker,Strata Planning,Payer code not aligned to finance hierarchy,Conformance,11.2,Medium,14,lock metric definition in catalog
+QC-004,OPS-001,Volume and capacity dashboard,Provider Master,Payer code not aligned to finance hierarchy,Conformance,9.1,Low,16,lock metric definition in catalog
+QC-005,RCM-001,Denials and A/R command center,Strata Planning,Payer code not aligned to finance hierarchy,Conformance,12.0,Medium,33,add refresh alert and retry rule
+QC-006,RCM-001,Denials and A/R command center,Workday Payroll,Manual adjustment not documented,Auditability,15.6,Medium,38,document adjustment source and approver
+QC-007,RCM-001,Denials and A/R command center,Provider Master,Late ledger refresh,Freshness,17.9,Medium,8,document adjustment source and approver
+QC-008,FIN-003,Labor productivity monitor,Workday Payroll,Missing cost center mapping,Mapping,17.4,Medium,39,add refresh alert and retry rule
+QC-009,OPS-002,Ancillary utilization scorecard,Claims Clearinghouse,Missing cost center mapping,Mapping,20.1,High,39,document adjustment source and approver
+QC-010,GOV-002,Dashboard adoption and intake queue,Provider Master,Missing cost center mapping,Mapping,14.9,Medium,22,document adjustment source and approver
+QC-011,FIN-003,Labor productivity monitor,Workday Payroll,Duplicate monthly close row,Completeness,13.3,Medium,16,lock metric definition in catalog
+QC-012,RCM-001,Denials and A/R command center,Workday Payroll,Missing cost center mapping,Mapping,10.1,Medium,6,lock metric definition in catalog
+QC-013,RCM-002,Payer mix and reimbursement report,SAP Finance,Payer code not aligned to finance hierarchy,Conformance,11.5,Medium,4,document adjustment source and approver
+QC-014,FIN-003,Labor productivity monitor,Provider Master,Manual adjustment not documented,Auditability,9.2,Low,5,document adjustment source and approver
+QC-015,FIN-002,Service line margin review,SAP Finance,Payer code not aligned to finance hierarchy,Conformance,30.4,Critical,22,add refresh alert and retry rule
+QC-016,FIN-003,Labor productivity monitor,Claims Clearinghouse,Manual adjustment not documented,Auditability,21.5,High,1,add refresh alert and retry rule
+QC-017,GOV-001,Metric certification tracker,SAP Finance,Missing cost center mapping,Mapping,24.5,High,20,add refresh alert and retry rule
+QC-018,FIN-001,Monthly close executive packet,SAP Finance,Missing cost center mapping,Mapping,18.8,High,2,document adjustment source and approver
+QC-019,RCM-002,Payer mix and reimbursement report,Strata Planning,Payer code not aligned to finance hierarchy,Conformance,12.1,Medium,3,document adjustment source and approver
+QC-020,FIN-003,Labor productivity monitor,Epic Resolute,Duplicate monthly close row,Completeness,5.9,Low,29,document adjustment source and approver
+QC-021,FIN-001,Monthly close executive packet,SAP Finance,Metric definition drift,Definition,6.8,Low,17,assign source owner and certify mapping
+QC-022,FIN-001,Monthly close executive packet,Strata Planning,Metric definition drift,Definition,33.1,Critical,6,lock metric definition in catalog
+QC-023,FPA-002,Budget owner review packet,Provider Master,Manual adjustment not documented,Auditability,9.8,Low,3,document adjustment source and approver
+QC-024,GOV-002,Dashboard adoption and intake queue,Epic Resolute,Manual adjustment not documented,Auditability,13.1,Medium,22,assign source owner and certify mapping
+QC-025,FIN-003,Labor productivity monitor,Claims Clearinghouse,Late ledger refresh,Freshness,22.0,High,34,document adjustment source and approver
+QC-026,FIN-004,Supply cost variance board,Claims Clearinghouse,Payer code not aligned to finance hierarchy,Conformance,18.5,High,22,assign source owner and certify mapping
+QC-027,RCM-001,Denials and A/R command center,Workday Payroll,Metric definition drift,Definition,20.3,High,25,assign source owner and certify mapping
+QC-028,RCM-002,Payer mix and reimbursement report,Provider Master,Late ledger refresh,Freshness,29.2,Critical,33,assign source owner and certify mapping
+QC-029,FIN-001,Monthly close executive packet,Claims Clearinghouse,Payer code not aligned to finance hierarchy,Conformance,13.9,Medium,36,assign source owner and certify mapping
+QC-030,FIN-003,Labor productivity monitor,Workday Payroll,Payer code not aligned to finance hierarchy,Conformance,18.6,High,34,lock metric definition in catalog
+QC-031,FIN-002,Service line margin review,Provider Master,Manual adjustment not documented,Auditability,12.9,Medium,33,document adjustment source and approver
+QC-032,FIN-003,Labor productivity monitor,Provider Master,Manual adjustment not documented,Auditability,9.7,Low,14,lock metric definition in catalog
+QC-033,FPA-002,Budget owner review packet,Claims Clearinghouse,Duplicate monthly close row,Completeness,10.3,Medium,12,add refresh alert and retry rule
+QC-034,FIN-002,Service line margin review,Workday Payroll,Metric definition drift,Definition,11.8,Medium,7,route exception to monthly close review
+QC-035,FIN-004,Supply cost variance board,Claims Clearinghouse,Missing cost center mapping,Mapping,20.7,High,30,lock metric definition in catalog
+QC-036,FPA-001,Forecast version bridge,Workday Payroll,Late ledger refresh,Freshness,22.3,High,8,document adjustment source and approver
+QC-037,FPA-001,Forecast version bridge,Claims Clearinghouse,Payer code not aligned to finance hierarchy,Conformance,14.0,Medium,15,lock metric definition in catalog
+QC-038,OPS-002,Ancillary utilization scorecard,SAP Finance,Missing cost center mapping,Mapping,18.9,High,10,assign source owner and certify mapping
+QC-039,FIN-004,Supply cost variance board,Epic Resolute,Payer code not aligned to finance hierarchy,Conformance,20.2,High,33,add refresh alert and retry rule
+QC-040,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Missing cost center mapping,Mapping,17.3,Medium,36,assign source owner and certify mapping
+QC-041,RCM-001,Denials and A/R command center,SAP Finance,Duplicate monthly close row,Completeness,8.1,Low,39,lock metric definition in catalog
+QC-042,FPA-001,Forecast version bridge,SAP Finance,Metric definition drift,Definition,11.8,Medium,28,document adjustment source and approver
+QC-043,FIN-004,Supply cost variance board,SAP Finance,Duplicate monthly close row,Completeness,13.8,Medium,41,add refresh alert and retry rule
+QC-044,FIN-003,Labor productivity monitor,Epic Resolute,Payer code not aligned to finance hierarchy,Conformance,8.1,Low,14,lock metric definition in catalog
+QC-045,FIN-004,Supply cost variance board,SAP Finance,Manual adjustment not documented,Auditability,12.3,Medium,30,assign source owner and certify mapping
+QC-046,FPA-001,Forecast version bridge,Workday Payroll,Metric definition drift,Definition,11.1,Medium,41,assign source owner and certify mapping
+QC-047,FIN-002,Service line margin review,SAP Finance,Metric definition drift,Definition,6.7,Low,11,lock metric definition in catalog
+QC-048,FIN-003,Labor productivity monitor,SAP Finance,Missing cost center mapping,Mapping,26.1,High,38,assign source owner and certify mapping
+QC-049,FPA-001,Forecast version bridge,Workday Payroll,Late ledger refresh,Freshness,19.8,High,8,document adjustment source and approver
+QC-050,FPA-002,Budget owner review packet,Epic Resolute,Late ledger refresh,Freshness,23.3,High,27,document adjustment source and approver
+QC-051,RCM-001,Denials and A/R command center,Epic Resolute,Late ledger refresh,Freshness,15.7,Medium,6,route exception to monthly close review
+QC-052,FIN-003,Labor productivity monitor,SAP Finance,Payer code not aligned to finance hierarchy,Conformance,8.6,Low,25,lock metric definition in catalog
+QC-053,FIN-002,Service line margin review,SAP Finance,Payer code not aligned to finance hierarchy,Conformance,9.8,Low,17,add refresh alert and retry rule
+QC-054,FIN-001,Monthly close executive packet,Epic Resolute,Metric definition drift,Definition,16.3,Medium,40,add refresh alert and retry rule
+QC-055,OPS-001,Volume and capacity dashboard,SAP Finance,Metric definition drift,Definition,20.0,High,41,add refresh alert and retry rule
+QC-056,GOV-002,Dashboard adoption and intake queue,Provider Master,Manual adjustment not documented,Auditability,13.7,Medium,17,document adjustment source and approver
+QC-057,RCM-001,Denials and A/R command center,Provider Master,Manual adjustment not documented,Auditability,18.5,High,38,route exception to monthly close review
+QC-058,FPA-002,Budget owner review packet,Epic Resolute,Payer code not aligned to finance hierarchy,Conformance,14.7,Medium,35,document adjustment source and approver
+QC-059,GOV-001,Metric certification tracker,Epic Resolute,Manual adjustment not documented,Auditability,16.3,Medium,30,assign source owner and certify mapping
+QC-060,GOV-001,Metric certification tracker,Provider Master,Late ledger refresh,Freshness,21.4,High,8,route exception to monthly close review
+QC-061,RCM-001,Denials and A/R command center,Claims Clearinghouse,Payer code not aligned to finance hierarchy,Conformance,6.4,Low,22,lock metric definition in catalog
+QC-062,RCM-002,Payer mix and reimbursement report,Epic Resolute,Payer code not aligned to finance hierarchy,Conformance,15.8,Medium,38,lock metric definition in catalog
+QC-063,FPA-001,Forecast version bridge,Epic Resolute,Payer code not aligned to finance hierarchy,Conformance,24.8,High,3,add refresh alert and retry rule
+QC-064,RCM-001,Denials and A/R command center,Strata Planning,Metric definition drift,Definition,12.5,Medium,31,lock metric definition in catalog
+QC-065,FPA-002,Budget owner review packet,Epic Resolute,Missing cost center mapping,Mapping,22.1,High,35,document adjustment source and approver
+QC-066,GOV-002,Dashboard adoption and intake queue,Strata Planning,Manual adjustment not documented,Auditability,11.9,Medium,29,lock metric definition in catalog
+QC-067,OPS-002,Ancillary utilization scorecard,Claims Clearinghouse,Payer code not aligned to finance hierarchy,Conformance,4.3,Low,32,assign source owner and certify mapping
+QC-068,OPS-001,Volume and capacity dashboard,Provider Master,Missing cost center mapping,Mapping,12.9,Medium,6,add refresh alert and retry rule
+QC-069,OPS-001,Volume and capacity dashboard,Provider Master,Manual adjustment not documented,Auditability,6.3,Low,25,add refresh alert and retry rule
+QC-070,RCM-001,Denials and A/R command center,Strata Planning,Manual adjustment not documented,Auditability,10.9,Medium,8,lock metric definition in catalog
+QC-071,FIN-002,Service line margin review,Provider Master,Missing cost center mapping,Mapping,13.3,Medium,40,document adjustment source and approver
+QC-072,GOV-002,Dashboard adoption and intake queue,SAP Finance,Duplicate monthly close row,Completeness,9.3,Low,24,route exception to monthly close review
+QC-073,RCM-001,Denials and A/R command center,SAP Finance,Duplicate monthly close row,Completeness,5.9,Low,40,route exception to monthly close review
+QC-074,FIN-001,Monthly close executive packet,Provider Master,Duplicate monthly close row,Completeness,12.8,Medium,30,assign source owner and certify mapping
+QC-075,OPS-001,Volume and capacity dashboard,Provider Master,Metric definition drift,Definition,18.5,High,36,route exception to monthly close review
+QC-076,FPA-002,Budget owner review packet,SAP Finance,Payer code not aligned to finance hierarchy,Conformance,22.5,High,7,lock metric definition in catalog
+QC-077,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Duplicate monthly close row,Completeness,18.2,High,19,route exception to monthly close review
+QC-078,FPA-001,Forecast version bridge,Provider Master,Missing cost center mapping,Mapping,23.7,High,28,assign source owner and certify mapping
+QC-079,OPS-002,Ancillary utilization scorecard,Provider Master,Manual adjustment not documented,Auditability,8.6,Low,19,document adjustment source and approver
+QC-080,OPS-001,Volume and capacity dashboard,Provider Master,Duplicate monthly close row,Completeness,6.5,Low,19,add refresh alert and retry rule
+QC-081,FIN-002,Service line margin review,Claims Clearinghouse,Manual adjustment not documented,Auditability,10.4,Medium,8,lock metric definition in catalog
+QC-082,GOV-001,Metric certification tracker,Strata Planning,Metric definition drift,Definition,20.1,High,39,document adjustment source and approver
+QC-083,GOV-002,Dashboard adoption and intake queue,Strata Planning,Manual adjustment not documented,Auditability,23.2,High,10,document adjustment source and approver
+QC-084,FIN-002,Service line margin review,Provider Master,Missing cost center mapping,Mapping,6.9,Low,17,document adjustment source and approver
+QC-085,FPA-001,Forecast version bridge,Epic Resolute,Late ledger refresh,Freshness,27.6,Critical,30,add refresh alert and retry rule
+QC-086,GOV-001,Metric certification tracker,Provider Master,Metric definition drift,Definition,17.3,Medium,39,route exception to monthly close review
+QC-087,FIN-002,Service line margin review,Workday Payroll,Missing cost center mapping,Mapping,26.2,High,38,assign source owner and certify mapping
+QC-088,GOV-001,Metric certification tracker,Strata Planning,Duplicate monthly close row,Completeness,15.6,Medium,28,lock metric definition in catalog
+QC-089,OPS-002,Ancillary utilization scorecard,Epic Resolute,Payer code not aligned to finance hierarchy,Conformance,21.4,High,15,document adjustment source and approver
+QC-090,FIN-002,Service line margin review,Strata Planning,Duplicate monthly close row,Completeness,9.3,Low,33,lock metric definition in catalog
+QC-091,FPA-002,Budget owner review packet,SAP Finance,Metric definition drift,Definition,22.9,High,25,assign source owner and certify mapping
+QC-092,FIN-001,Monthly close executive packet,Workday Payroll,Payer code not aligned to finance hierarchy,Conformance,3.5,Low,4,lock metric definition in catalog
+QC-093,OPS-002,Ancillary utilization scorecard,Strata Planning,Missing cost center mapping,Mapping,14.9,Medium,42,add refresh alert and retry rule
+QC-094,FPA-002,Budget owner review packet,SAP Finance,Late ledger refresh,Freshness,25.3,High,20,route exception to monthly close review
+QC-095,RCM-001,Denials and A/R command center,Provider Master,Missing cost center mapping,Mapping,13.6,Medium,36,lock metric definition in catalog
+QC-096,GOV-001,Metric certification tracker,Workday Payroll,Metric definition drift,Definition,35.4,Critical,26,add refresh alert and retry rule

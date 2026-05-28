@@ -1,0 +1,25 @@
+handoff_id,dashboard_id,dashboard_name,planning_version,service_line,mapping_completeness_pct,currency_rule_documented,data_access_reviewed,status,next_owner
+SAC-001,FIN-004,Supply cost variance board,Forecast Q4,Primary Care,62.5,No,Yes,Needs mapping,Finance BI
+SAC-002,FIN-001,Monthly close executive packet,Forecast Q3,Primary Care,56.9,Yes,Yes,Needs version owner,Finance BI
+SAC-003,FIN-001,Monthly close executive packet,Budget 2027,Orthopedics,76.6,Yes,No,Needs mapping,FP&A
+SAC-004,FPA-002,Budget owner review packet,Forecast Q4,Imaging,71.5,Yes,Yes,Needs mapping,Finance BI
+SAC-005,FIN-001,Monthly close executive packet,Forecast Q4,Cardiology,69.5,Yes,Yes,Needs mapping,FP&A
+SAC-006,FPA-002,Budget owner review packet,Forecast Q4,Women's Health,79.1,Yes,Yes,Needs mapping,FP&A
+SAC-007,FIN-003,Labor productivity monitor,Forecast Q4,Cardiology,78.5,No,No,Needs mapping,Service line finance
+SAC-008,FIN-004,Supply cost variance board,Forecast Q4,Behavioral Health,94.5,Yes,Yes,Ready,FP&A
+SAC-009,FIN-002,Service line margin review,Forecast Q3,Orthopedics,45.4,Yes,No,Needs mapping,SAC admin
+SAC-010,FIN-004,Supply cost variance board,Forecast Q4,Women's Health,49.1,Yes,No,Needs mapping,FP&A
+SAC-011,FIN-001,Monthly close executive packet,Forecast Q3,Orthopedics,49.7,Yes,Yes,Needs version owner,SAC admin
+SAC-012,FPA-002,Budget owner review packet,Forecast Q4,Women's Health,61.8,Yes,Yes,Needs version owner,Service line finance
+SAC-013,FPA-002,Budget owner review packet,Board scenario,Oncology,86.8,No,Yes,Needs mapping,Finance BI
+SAC-014,FPA-002,Budget owner review packet,Board scenario,Oncology,46.1,No,Yes,Needs mapping,Service line finance
+SAC-015,FIN-002,Service line margin review,Board scenario,Women's Health,48.1,Yes,Yes,Needs mapping,FP&A
+SAC-016,FIN-002,Service line margin review,Board scenario,Cardiology,55.3,Yes,Yes,Needs mapping,FP&A
+SAC-017,FIN-003,Labor productivity monitor,Forecast Q4,Cardiology,68.3,No,Yes,Needs version owner,SAC admin
+SAC-018,FIN-004,Supply cost variance board,Board scenario,Emergency,59.4,No,No,Needs mapping,Finance BI
+SAC-019,FIN-001,Monthly close executive packet,Budget 2027,Imaging,60.7,Yes,Yes,Needs access,Service line finance
+SAC-020,FPA-002,Budget owner review packet,Board scenario,Emergency,83.4,No,Yes,Needs access,FP&A
+SAC-021,FIN-004,Supply cost variance board,Board scenario,Behavioral Health,79.1,Yes,Yes,Needs mapping,SAC admin
+SAC-022,FIN-004,Supply cost variance board,Forecast Q4,Orthopedics,86.9,Yes,Yes,Ready,Finance BI
+SAC-023,FIN-003,Labor productivity monitor,Budget 2027,Primary Care,93.3,No,Yes,Needs version owner,FP&A
+SAC-024,FIN-002,Service line margin review,Forecast Q4,Cardiology,73.1,No,No,Needs version owner,SAC admin

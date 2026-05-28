@@ -1,0 +1,337 @@
+run_date,dashboard_id,dashboard_name,source_system,status,duration_minutes,rows_processed,defect_count
+2026-05-01,FIN-001,Monthly close executive packet,Epic Resolute,Succeeded,58,856456,1
+2026-05-01,FIN-002,Service line margin review,Provider Master,Succeeded,27,508326,4
+2026-05-01,FIN-003,Labor productivity monitor,Strata Planning,Succeeded,35,577279,2
+2026-05-01,FIN-004,Supply cost variance board,Strata Planning,Succeeded,70,36373,2
+2026-05-01,RCM-001,Denials and A/R command center,Provider Master,Warning,42,43344,1
+2026-05-01,RCM-002,Payer mix and reimbursement report,Provider Master,Warning,70,460621,0
+2026-05-01,OPS-001,Volume and capacity dashboard,Provider Master,Succeeded,80,465951,3
+2026-05-01,OPS-002,Ancillary utilization scorecard,Epic Resolute,Succeeded,68,959938,0
+2026-05-01,FPA-001,Forecast version bridge,SAP Finance,Warning,31,672725,4
+2026-05-01,FPA-002,Budget owner review packet,Epic Resolute,Warning,41,205844,4
+2026-05-01,GOV-001,Metric certification tracker,Claims Clearinghouse,Succeeded,64,382141,1
+2026-05-01,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Succeeded,25,34995,4
+2026-05-02,FIN-001,Monthly close executive packet,Epic Resolute,Failed,79,814354,8
+2026-05-02,FIN-002,Service line margin review,SAP Finance,Succeeded,80,603465,2
+2026-05-02,FIN-003,Labor productivity monitor,Epic Resolute,Succeeded,62,753356,0
+2026-05-02,FIN-004,Supply cost variance board,Claims Clearinghouse,Succeeded,54,915546,3
+2026-05-02,RCM-001,Denials and A/R command center,Strata Planning,Succeeded,18,921303,2
+2026-05-02,RCM-002,Payer mix and reimbursement report,Workday Payroll,Warning,60,424234,0
+2026-05-02,OPS-001,Volume and capacity dashboard,Provider Master,Succeeded,30,892719,2
+2026-05-02,OPS-002,Ancillary utilization scorecard,Provider Master,Succeeded,80,824483,1
+2026-05-02,FPA-001,Forecast version bridge,Strata Planning,Succeeded,70,358859,4
+2026-05-02,FPA-002,Budget owner review packet,SAP Finance,Succeeded,80,332705,3
+2026-05-02,GOV-001,Metric certification tracker,Strata Planning,Warning,77,845307,0
+2026-05-02,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Succeeded,43,809063,1
+2026-05-03,FIN-001,Monthly close executive packet,Workday Payroll,Succeeded,73,301388,3
+2026-05-03,FIN-002,Service line margin review,Strata Planning,Succeeded,39,861945,3
+2026-05-03,FIN-003,Labor productivity monitor,Workday Payroll,Succeeded,77,523505,0
+2026-05-03,FIN-004,Supply cost variance board,Workday Payroll,Warning,51,440166,1
+2026-05-03,RCM-001,Denials and A/R command center,SAP Finance,Warning,71,84159,4
+2026-05-03,RCM-002,Payer mix and reimbursement report,Strata Planning,Succeeded,30,518759,4
+2026-05-03,OPS-001,Volume and capacity dashboard,Strata Planning,Succeeded,86,956501,2
+2026-05-03,OPS-002,Ancillary utilization scorecard,Strata Planning,Succeeded,61,600633,0
+2026-05-03,FPA-001,Forecast version bridge,SAP Finance,Failed,114,963699,8
+2026-05-03,FPA-002,Budget owner review packet,Workday Payroll,Succeeded,24,263284,3
+2026-05-03,GOV-001,Metric certification tracker,Strata Planning,Succeeded,16,689740,4
+2026-05-03,GOV-002,Dashboard adoption and intake queue,SAP Finance,Succeeded,74,971815,3
+2026-05-04,FIN-001,Monthly close executive packet,Epic Resolute,Succeeded,21,74854,3
+2026-05-04,FIN-002,Service line margin review,Strata Planning,Succeeded,32,335876,1
+2026-05-04,FIN-003,Labor productivity monitor,Workday Payroll,Succeeded,90,258205,4
+2026-05-04,FIN-004,Supply cost variance board,SAP Finance,Succeeded,24,69222,0
+2026-05-04,RCM-001,Denials and A/R command center,Epic Resolute,Succeeded,40,910865,3
+2026-05-04,RCM-002,Payer mix and reimbursement report,Strata Planning,Succeeded,49,774437,3
+2026-05-04,OPS-001,Volume and capacity dashboard,Epic Resolute,Succeeded,20,960844,1
+2026-05-04,OPS-002,Ancillary utilization scorecard,Claims Clearinghouse,Succeeded,70,360411,2
+2026-05-04,FPA-001,Forecast version bridge,SAP Finance,Succeeded,35,273010,4
+2026-05-04,FPA-002,Budget owner review packet,Provider Master,Succeeded,29,828695,1
+2026-05-04,GOV-001,Metric certification tracker,SAP Finance,Succeeded,39,483421,1
+2026-05-04,GOV-002,Dashboard adoption and intake queue,Provider Master,Succeeded,22,373793,1
+2026-05-05,FIN-001,Monthly close executive packet,Workday Payroll,Succeeded,28,656516,3
+2026-05-05,FIN-002,Service line margin review,Claims Clearinghouse,Succeeded,66,469742,2
+2026-05-05,FIN-003,Labor productivity monitor,SAP Finance,Succeeded,67,192931,4
+2026-05-05,FIN-004,Supply cost variance board,Strata Planning,Failed,126,670897,12
+2026-05-05,RCM-001,Denials and A/R command center,Provider Master,Succeeded,43,971055,4
+2026-05-05,RCM-002,Payer mix and reimbursement report,Epic Resolute,Succeeded,22,949945,3
+2026-05-05,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Succeeded,36,209528,3
+2026-05-05,OPS-002,Ancillary utilization scorecard,Claims Clearinghouse,Succeeded,83,922805,4
+2026-05-05,FPA-001,Forecast version bridge,Epic Resolute,Succeeded,65,491852,2
+2026-05-05,FPA-002,Budget owner review packet,Epic Resolute,Failed,54,958970,7
+2026-05-05,GOV-001,Metric certification tracker,Epic Resolute,Succeeded,42,315212,2
+2026-05-05,GOV-002,Dashboard adoption and intake queue,Provider Master,Succeeded,44,723109,0
+2026-05-06,FIN-001,Monthly close executive packet,Provider Master,Failed,75,397638,9
+2026-05-06,FIN-002,Service line margin review,Workday Payroll,Failed,87,82815,11
+2026-05-06,FIN-003,Labor productivity monitor,Epic Resolute,Succeeded,83,859718,0
+2026-05-06,FIN-004,Supply cost variance board,Epic Resolute,Failed,70,679141,10
+2026-05-06,RCM-001,Denials and A/R command center,SAP Finance,Warning,33,615618,1
+2026-05-06,RCM-002,Payer mix and reimbursement report,SAP Finance,Warning,31,607540,3
+2026-05-06,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Failed,76,927197,12
+2026-05-06,OPS-002,Ancillary utilization scorecard,SAP Finance,Succeeded,29,402628,4
+2026-05-06,FPA-001,Forecast version bridge,Strata Planning,Succeeded,44,503285,3
+2026-05-06,FPA-002,Budget owner review packet,Epic Resolute,Succeeded,58,559633,1
+2026-05-06,GOV-001,Metric certification tracker,SAP Finance,Succeeded,41,682480,0
+2026-05-06,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Succeeded,53,862019,1
+2026-05-07,FIN-001,Monthly close executive packet,Strata Planning,Succeeded,86,415605,3
+2026-05-07,FIN-002,Service line margin review,Claims Clearinghouse,Succeeded,58,61550,4
+2026-05-07,FIN-003,Labor productivity monitor,Provider Master,Succeeded,48,866612,2
+2026-05-07,FIN-004,Supply cost variance board,SAP Finance,Succeeded,56,373195,3
+2026-05-07,RCM-001,Denials and A/R command center,Epic Resolute,Warning,60,711637,3
+2026-05-07,RCM-002,Payer mix and reimbursement report,Claims Clearinghouse,Succeeded,54,796412,3
+2026-05-07,OPS-001,Volume and capacity dashboard,Workday Payroll,Failed,49,446147,11
+2026-05-07,OPS-002,Ancillary utilization scorecard,SAP Finance,Succeeded,35,295532,4
+2026-05-07,FPA-001,Forecast version bridge,SAP Finance,Failed,89,865649,4
+2026-05-07,FPA-002,Budget owner review packet,Provider Master,Succeeded,81,722238,2
+2026-05-07,GOV-001,Metric certification tracker,Claims Clearinghouse,Succeeded,80,205018,0
+2026-05-07,GOV-002,Dashboard adoption and intake queue,Epic Resolute,Failed,82,776870,11
+2026-05-08,FIN-001,Monthly close executive packet,Provider Master,Succeeded,83,304593,0
+2026-05-08,FIN-002,Service line margin review,Workday Payroll,Succeeded,42,802178,4
+2026-05-08,FIN-003,Labor productivity monitor,Workday Payroll,Warning,16,230004,1
+2026-05-08,FIN-004,Supply cost variance board,Workday Payroll,Warning,34,341469,4
+2026-05-08,RCM-001,Denials and A/R command center,Workday Payroll,Succeeded,23,723171,2
+2026-05-08,RCM-002,Payer mix and reimbursement report,Strata Planning,Succeeded,52,881645,0
+2026-05-08,OPS-001,Volume and capacity dashboard,Workday Payroll,Succeeded,92,789196,2
+2026-05-08,OPS-002,Ancillary utilization scorecard,Strata Planning,Succeeded,51,215715,0
+2026-05-08,FPA-001,Forecast version bridge,Strata Planning,Succeeded,59,334620,3
+2026-05-08,FPA-002,Budget owner review packet,Provider Master,Warning,25,99586,0
+2026-05-08,GOV-001,Metric certification tracker,SAP Finance,Succeeded,16,536521,2
+2026-05-08,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Succeeded,57,196742,1
+2026-05-09,FIN-001,Monthly close executive packet,Epic Resolute,Succeeded,48,136235,1
+2026-05-09,FIN-002,Service line margin review,Strata Planning,Succeeded,74,151448,2
+2026-05-09,FIN-003,Labor productivity monitor,Strata Planning,Succeeded,32,514080,1
+2026-05-09,FIN-004,Supply cost variance board,SAP Finance,Succeeded,29,737307,4
+2026-05-09,RCM-001,Denials and A/R command center,Claims Clearinghouse,Succeeded,81,699949,1
+2026-05-09,RCM-002,Payer mix and reimbursement report,Strata Planning,Warning,47,864082,0
+2026-05-09,OPS-001,Volume and capacity dashboard,Workday Payroll,Succeeded,40,126669,3
+2026-05-09,OPS-002,Ancillary utilization scorecard,Epic Resolute,Succeeded,32,701687,2
+2026-05-09,FPA-001,Forecast version bridge,Strata Planning,Succeeded,34,189153,0
+2026-05-09,FPA-002,Budget owner review packet,Claims Clearinghouse,Failed,95,976307,9
+2026-05-09,GOV-001,Metric certification tracker,SAP Finance,Succeeded,35,91371,1
+2026-05-09,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Succeeded,53,836242,2
+2026-05-10,FIN-001,Monthly close executive packet,Claims Clearinghouse,Succeeded,15,404592,4
+2026-05-10,FIN-002,Service line margin review,Workday Payroll,Succeeded,33,819131,3
+2026-05-10,FIN-003,Labor productivity monitor,Strata Planning,Warning,26,619546,1
+2026-05-10,FIN-004,Supply cost variance board,Epic Resolute,Warning,30,660929,0
+2026-05-10,RCM-001,Denials and A/R command center,SAP Finance,Warning,16,98908,2
+2026-05-10,RCM-002,Payer mix and reimbursement report,Provider Master,Succeeded,26,695692,3
+2026-05-10,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Succeeded,76,427220,2
+2026-05-10,OPS-002,Ancillary utilization scorecard,Workday Payroll,Warning,22,402399,4
+2026-05-10,FPA-001,Forecast version bridge,Workday Payroll,Succeeded,65,344150,0
+2026-05-10,FPA-002,Budget owner review packet,SAP Finance,Succeeded,14,898649,3
+2026-05-10,GOV-001,Metric certification tracker,Epic Resolute,Succeeded,66,367888,2
+2026-05-10,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Succeeded,40,443294,2
+2026-05-11,FIN-001,Monthly close executive packet,Provider Master,Succeeded,46,623963,3
+2026-05-11,FIN-002,Service line margin review,Epic Resolute,Succeeded,52,838083,4
+2026-05-11,FIN-003,Labor productivity monitor,Epic Resolute,Succeeded,47,940400,1
+2026-05-11,FIN-004,Supply cost variance board,Provider Master,Succeeded,74,351530,4
+2026-05-11,RCM-001,Denials and A/R command center,SAP Finance,Succeeded,85,115955,4
+2026-05-11,RCM-002,Payer mix and reimbursement report,Workday Payroll,Succeeded,28,300986,4
+2026-05-11,OPS-001,Volume and capacity dashboard,Epic Resolute,Warning,80,210845,4
+2026-05-11,OPS-002,Ancillary utilization scorecard,SAP Finance,Warning,33,973703,1
+2026-05-11,FPA-001,Forecast version bridge,Epic Resolute,Failed,66,886359,8
+2026-05-11,FPA-002,Budget owner review packet,Strata Planning,Warning,16,301610,0
+2026-05-11,GOV-001,Metric certification tracker,Epic Resolute,Warning,43,905706,2
+2026-05-11,GOV-002,Dashboard adoption and intake queue,SAP Finance,Succeeded,74,960230,2
+2026-05-12,FIN-001,Monthly close executive packet,Claims Clearinghouse,Succeeded,43,613775,1
+2026-05-12,FIN-002,Service line margin review,Strata Planning,Succeeded,64,958332,0
+2026-05-12,FIN-003,Labor productivity monitor,Provider Master,Warning,56,353886,1
+2026-05-12,FIN-004,Supply cost variance board,Strata Planning,Succeeded,62,191679,3
+2026-05-12,RCM-001,Denials and A/R command center,SAP Finance,Warning,25,74831,2
+2026-05-12,RCM-002,Payer mix and reimbursement report,Workday Payroll,Succeeded,30,840547,3
+2026-05-12,OPS-001,Volume and capacity dashboard,Workday Payroll,Succeeded,40,486551,2
+2026-05-12,OPS-002,Ancillary utilization scorecard,Workday Payroll,Succeeded,74,905801,2
+2026-05-12,FPA-001,Forecast version bridge,Workday Payroll,Succeeded,62,265146,0
+2026-05-12,FPA-002,Budget owner review packet,Provider Master,Succeeded,57,65363,2
+2026-05-12,GOV-001,Metric certification tracker,Strata Planning,Succeeded,20,973123,4
+2026-05-12,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Succeeded,61,919191,1
+2026-05-13,FIN-001,Monthly close executive packet,Strata Planning,Succeeded,60,764604,0
+2026-05-13,FIN-002,Service line margin review,Strata Planning,Succeeded,14,131839,4
+2026-05-13,FIN-003,Labor productivity monitor,Workday Payroll,Succeeded,83,272435,1
+2026-05-13,FIN-004,Supply cost variance board,Strata Planning,Succeeded,36,664660,3
+2026-05-13,RCM-001,Denials and A/R command center,Provider Master,Succeeded,42,754948,2
+2026-05-13,RCM-002,Payer mix and reimbursement report,Claims Clearinghouse,Succeeded,90,537909,1
+2026-05-13,OPS-001,Volume and capacity dashboard,Provider Master,Succeeded,44,333642,1
+2026-05-13,OPS-002,Ancillary utilization scorecard,SAP Finance,Succeeded,88,388678,4
+2026-05-13,FPA-001,Forecast version bridge,Claims Clearinghouse,Succeeded,84,743178,0
+2026-05-13,FPA-002,Budget owner review packet,Workday Payroll,Warning,83,251855,2
+2026-05-13,GOV-001,Metric certification tracker,Workday Payroll,Succeeded,79,406760,0
+2026-05-13,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Succeeded,32,236023,2
+2026-05-14,FIN-001,Monthly close executive packet,Claims Clearinghouse,Warning,36,502767,3
+2026-05-14,FIN-002,Service line margin review,Epic Resolute,Succeeded,84,66730,1
+2026-05-14,FIN-003,Labor productivity monitor,Strata Planning,Succeeded,50,646109,0
+2026-05-14,FIN-004,Supply cost variance board,Claims Clearinghouse,Failed,111,783449,6
+2026-05-14,RCM-001,Denials and A/R command center,Workday Payroll,Succeeded,85,158143,1
+2026-05-14,RCM-002,Payer mix and reimbursement report,Epic Resolute,Succeeded,17,781860,3
+2026-05-14,OPS-001,Volume and capacity dashboard,Epic Resolute,Warning,51,303468,2
+2026-05-14,OPS-002,Ancillary utilization scorecard,Epic Resolute,Succeeded,85,728054,4
+2026-05-14,FPA-001,Forecast version bridge,SAP Finance,Succeeded,57,593537,1
+2026-05-14,FPA-002,Budget owner review packet,Strata Planning,Succeeded,57,667622,3
+2026-05-14,GOV-001,Metric certification tracker,SAP Finance,Succeeded,15,909300,2
+2026-05-14,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Warning,52,645492,0
+2026-05-15,FIN-001,Monthly close executive packet,Workday Payroll,Warning,28,644307,2
+2026-05-15,FIN-002,Service line margin review,Strata Planning,Warning,65,918646,0
+2026-05-15,FIN-003,Labor productivity monitor,Epic Resolute,Failed,127,554967,9
+2026-05-15,FIN-004,Supply cost variance board,SAP Finance,Succeeded,89,64733,1
+2026-05-15,RCM-001,Denials and A/R command center,SAP Finance,Succeeded,33,116380,2
+2026-05-15,RCM-002,Payer mix and reimbursement report,Provider Master,Succeeded,23,380690,1
+2026-05-15,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Succeeded,17,150514,3
+2026-05-15,OPS-002,Ancillary utilization scorecard,Epic Resolute,Warning,28,24122,1
+2026-05-15,FPA-001,Forecast version bridge,SAP Finance,Succeeded,92,457024,1
+2026-05-15,FPA-002,Budget owner review packet,SAP Finance,Succeeded,15,686644,1
+2026-05-15,GOV-001,Metric certification tracker,Strata Planning,Succeeded,28,301435,2
+2026-05-15,GOV-002,Dashboard adoption and intake queue,Epic Resolute,Succeeded,67,449747,4
+2026-05-16,FIN-001,Monthly close executive packet,Claims Clearinghouse,Succeeded,80,38346,2
+2026-05-16,FIN-002,Service line margin review,Provider Master,Succeeded,78,534670,3
+2026-05-16,FIN-003,Labor productivity monitor,Claims Clearinghouse,Warning,24,624097,3
+2026-05-16,FIN-004,Supply cost variance board,SAP Finance,Succeeded,28,446198,3
+2026-05-16,RCM-001,Denials and A/R command center,Workday Payroll,Succeeded,58,363376,3
+2026-05-16,RCM-002,Payer mix and reimbursement report,Strata Planning,Succeeded,70,203540,1
+2026-05-16,OPS-001,Volume and capacity dashboard,Strata Planning,Succeeded,75,785394,0
+2026-05-16,OPS-002,Ancillary utilization scorecard,Strata Planning,Succeeded,48,963150,4
+2026-05-16,FPA-001,Forecast version bridge,Workday Payroll,Succeeded,19,63222,1
+2026-05-16,FPA-002,Budget owner review packet,Workday Payroll,Succeeded,59,878690,3
+2026-05-16,GOV-001,Metric certification tracker,Strata Planning,Failed,54,430489,7
+2026-05-16,GOV-002,Dashboard adoption and intake queue,Provider Master,Succeeded,43,56013,2
+2026-05-17,FIN-001,Monthly close executive packet,SAP Finance,Failed,120,716710,12
+2026-05-17,FIN-002,Service line margin review,SAP Finance,Succeeded,34,948990,0
+2026-05-17,FIN-003,Labor productivity monitor,SAP Finance,Succeeded,28,230637,2
+2026-05-17,FIN-004,Supply cost variance board,Provider Master,Warning,70,391297,1
+2026-05-17,RCM-001,Denials and A/R command center,Workday Payroll,Succeeded,68,20450,1
+2026-05-17,RCM-002,Payer mix and reimbursement report,Provider Master,Succeeded,21,862280,3
+2026-05-17,OPS-001,Volume and capacity dashboard,Provider Master,Succeeded,68,419894,2
+2026-05-17,OPS-002,Ancillary utilization scorecard,Strata Planning,Succeeded,56,892941,4
+2026-05-17,FPA-001,Forecast version bridge,Workday Payroll,Warning,42,602368,4
+2026-05-17,FPA-002,Budget owner review packet,Epic Resolute,Failed,75,818501,9
+2026-05-17,GOV-001,Metric certification tracker,Epic Resolute,Succeeded,61,81840,1
+2026-05-17,GOV-002,Dashboard adoption and intake queue,SAP Finance,Succeeded,19,59905,3
+2026-05-18,FIN-001,Monthly close executive packet,Claims Clearinghouse,Warning,63,556540,2
+2026-05-18,FIN-002,Service line margin review,Epic Resolute,Succeeded,78,596495,2
+2026-05-18,FIN-003,Labor productivity monitor,Claims Clearinghouse,Succeeded,90,578565,4
+2026-05-18,FIN-004,Supply cost variance board,Epic Resolute,Succeeded,47,159994,0
+2026-05-18,RCM-001,Denials and A/R command center,Provider Master,Succeeded,50,191497,0
+2026-05-18,RCM-002,Payer mix and reimbursement report,Provider Master,Succeeded,27,281498,3
+2026-05-18,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Failed,58,371947,5
+2026-05-18,OPS-002,Ancillary utilization scorecard,Epic Resolute,Warning,90,40549,2
+2026-05-18,FPA-001,Forecast version bridge,Workday Payroll,Succeeded,17,268131,4
+2026-05-18,FPA-002,Budget owner review packet,Strata Planning,Warning,72,158735,0
+2026-05-18,GOV-001,Metric certification tracker,SAP Finance,Warning,23,560387,1
+2026-05-18,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Succeeded,15,873095,1
+2026-05-19,FIN-001,Monthly close executive packet,SAP Finance,Warning,26,943331,0
+2026-05-19,FIN-002,Service line margin review,Provider Master,Succeeded,60,33240,3
+2026-05-19,FIN-003,Labor productivity monitor,SAP Finance,Warning,23,84392,0
+2026-05-19,FIN-004,Supply cost variance board,SAP Finance,Warning,26,183209,4
+2026-05-19,RCM-001,Denials and A/R command center,Epic Resolute,Succeeded,50,374881,3
+2026-05-19,RCM-002,Payer mix and reimbursement report,Workday Payroll,Succeeded,14,651638,2
+2026-05-19,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Succeeded,61,855152,4
+2026-05-19,OPS-002,Ancillary utilization scorecard,Claims Clearinghouse,Succeeded,30,954430,0
+2026-05-19,FPA-001,Forecast version bridge,Workday Payroll,Succeeded,87,579890,2
+2026-05-19,FPA-002,Budget owner review packet,SAP Finance,Warning,58,797009,3
+2026-05-19,GOV-001,Metric certification tracker,Epic Resolute,Succeeded,19,616026,4
+2026-05-19,GOV-002,Dashboard adoption and intake queue,Strata Planning,Succeeded,83,381917,4
+2026-05-20,FIN-001,Monthly close executive packet,Strata Planning,Failed,121,78847,4
+2026-05-20,FIN-002,Service line margin review,Provider Master,Succeeded,38,183506,0
+2026-05-20,FIN-003,Labor productivity monitor,Workday Payroll,Succeeded,68,408750,1
+2026-05-20,FIN-004,Supply cost variance board,Provider Master,Succeeded,63,715929,1
+2026-05-20,RCM-001,Denials and A/R command center,Provider Master,Succeeded,26,279869,0
+2026-05-20,RCM-002,Payer mix and reimbursement report,Workday Payroll,Succeeded,77,556868,1
+2026-05-20,OPS-001,Volume and capacity dashboard,Provider Master,Succeeded,76,909510,3
+2026-05-20,OPS-002,Ancillary utilization scorecard,SAP Finance,Succeeded,62,941540,4
+2026-05-20,FPA-001,Forecast version bridge,Epic Resolute,Succeeded,23,857705,2
+2026-05-20,FPA-002,Budget owner review packet,Provider Master,Warning,72,503972,3
+2026-05-20,GOV-001,Metric certification tracker,Strata Planning,Warning,87,690413,4
+2026-05-20,GOV-002,Dashboard adoption and intake queue,Epic Resolute,Succeeded,92,453938,1
+2026-05-21,FIN-001,Monthly close executive packet,Provider Master,Succeeded,87,60985,2
+2026-05-21,FIN-002,Service line margin review,Provider Master,Succeeded,18,886535,4
+2026-05-21,FIN-003,Labor productivity monitor,Epic Resolute,Succeeded,28,545683,4
+2026-05-21,FIN-004,Supply cost variance board,Claims Clearinghouse,Succeeded,75,715954,0
+2026-05-21,RCM-001,Denials and A/R command center,SAP Finance,Failed,73,417856,10
+2026-05-21,RCM-002,Payer mix and reimbursement report,Strata Planning,Succeeded,45,562939,2
+2026-05-21,OPS-001,Volume and capacity dashboard,Epic Resolute,Warning,51,929453,3
+2026-05-21,OPS-002,Ancillary utilization scorecard,Epic Resolute,Succeeded,44,246971,2
+2026-05-21,FPA-001,Forecast version bridge,Claims Clearinghouse,Warning,27,721842,2
+2026-05-21,FPA-002,Budget owner review packet,SAP Finance,Warning,86,779826,1
+2026-05-21,GOV-001,Metric certification tracker,SAP Finance,Succeeded,52,725712,0
+2026-05-21,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Warning,87,441823,1
+2026-05-22,FIN-001,Monthly close executive packet,Epic Resolute,Succeeded,20,396993,2
+2026-05-22,FIN-002,Service line margin review,Provider Master,Succeeded,81,790656,2
+2026-05-22,FIN-003,Labor productivity monitor,Epic Resolute,Succeeded,19,850658,1
+2026-05-22,FIN-004,Supply cost variance board,Provider Master,Warning,20,535698,1
+2026-05-22,RCM-001,Denials and A/R command center,Epic Resolute,Succeeded,59,599265,3
+2026-05-22,RCM-002,Payer mix and reimbursement report,Workday Payroll,Warning,66,737926,0
+2026-05-22,OPS-001,Volume and capacity dashboard,Strata Planning,Succeeded,33,545324,3
+2026-05-22,OPS-002,Ancillary utilization scorecard,SAP Finance,Succeeded,83,191191,1
+2026-05-22,FPA-001,Forecast version bridge,Claims Clearinghouse,Warning,49,469282,1
+2026-05-22,FPA-002,Budget owner review packet,SAP Finance,Succeeded,88,366097,3
+2026-05-22,GOV-001,Metric certification tracker,Epic Resolute,Succeeded,33,650433,2
+2026-05-22,GOV-002,Dashboard adoption and intake queue,Provider Master,Succeeded,52,738751,0
+2026-05-23,FIN-001,Monthly close executive packet,Workday Payroll,Succeeded,76,922993,2
+2026-05-23,FIN-002,Service line margin review,Workday Payroll,Warning,52,935009,3
+2026-05-23,FIN-003,Labor productivity monitor,Workday Payroll,Warning,78,910392,3
+2026-05-23,FIN-004,Supply cost variance board,Epic Resolute,Succeeded,56,938743,4
+2026-05-23,RCM-001,Denials and A/R command center,Workday Payroll,Failed,60,101795,11
+2026-05-23,RCM-002,Payer mix and reimbursement report,SAP Finance,Succeeded,58,54602,2
+2026-05-23,OPS-001,Volume and capacity dashboard,Epic Resolute,Succeeded,53,131875,4
+2026-05-23,OPS-002,Ancillary utilization scorecard,Workday Payroll,Succeeded,84,537634,0
+2026-05-23,FPA-001,Forecast version bridge,Strata Planning,Succeeded,31,285677,0
+2026-05-23,FPA-002,Budget owner review packet,Provider Master,Succeeded,71,52708,3
+2026-05-23,GOV-001,Metric certification tracker,Claims Clearinghouse,Warning,40,200575,3
+2026-05-23,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Succeeded,52,767442,3
+2026-05-24,FIN-001,Monthly close executive packet,Claims Clearinghouse,Succeeded,28,440257,1
+2026-05-24,FIN-002,Service line margin review,Provider Master,Succeeded,21,596424,1
+2026-05-24,FIN-003,Labor productivity monitor,Provider Master,Succeeded,64,653972,1
+2026-05-24,FIN-004,Supply cost variance board,Epic Resolute,Warning,65,158757,1
+2026-05-24,RCM-001,Denials and A/R command center,Epic Resolute,Succeeded,57,605319,4
+2026-05-24,RCM-002,Payer mix and reimbursement report,Epic Resolute,Succeeded,84,882019,3
+2026-05-24,OPS-001,Volume and capacity dashboard,Provider Master,Succeeded,32,868144,4
+2026-05-24,OPS-002,Ancillary utilization scorecard,Claims Clearinghouse,Warning,31,308869,2
+2026-05-24,FPA-001,Forecast version bridge,Strata Planning,Succeeded,83,717108,4
+2026-05-24,FPA-002,Budget owner review packet,Strata Planning,Succeeded,16,232967,1
+2026-05-24,GOV-001,Metric certification tracker,Epic Resolute,Succeeded,44,610303,3
+2026-05-24,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Warning,62,268597,0
+2026-05-25,FIN-001,Monthly close executive packet,Workday Payroll,Succeeded,68,182116,2
+2026-05-25,FIN-002,Service line margin review,Provider Master,Warning,67,18258,0
+2026-05-25,FIN-003,Labor productivity monitor,Claims Clearinghouse,Warning,42,386321,4
+2026-05-25,FIN-004,Supply cost variance board,Epic Resolute,Succeeded,40,881041,2
+2026-05-25,RCM-001,Denials and A/R command center,SAP Finance,Succeeded,64,616090,3
+2026-05-25,RCM-002,Payer mix and reimbursement report,Epic Resolute,Succeeded,76,168132,4
+2026-05-25,OPS-001,Volume and capacity dashboard,Epic Resolute,Warning,78,615010,4
+2026-05-25,OPS-002,Ancillary utilization scorecard,Claims Clearinghouse,Succeeded,54,726599,2
+2026-05-25,FPA-001,Forecast version bridge,Epic Resolute,Failed,126,542377,7
+2026-05-25,FPA-002,Budget owner review packet,Provider Master,Succeeded,40,575151,0
+2026-05-25,GOV-001,Metric certification tracker,Claims Clearinghouse,Warning,55,76545,2
+2026-05-25,GOV-002,Dashboard adoption and intake queue,SAP Finance,Succeeded,50,891216,4
+2026-05-26,FIN-001,Monthly close executive packet,Workday Payroll,Succeeded,25,696529,2
+2026-05-26,FIN-002,Service line margin review,SAP Finance,Succeeded,64,382751,4
+2026-05-26,FIN-003,Labor productivity monitor,Workday Payroll,Succeeded,90,286564,2
+2026-05-26,FIN-004,Supply cost variance board,Workday Payroll,Succeeded,56,638640,0
+2026-05-26,RCM-001,Denials and A/R command center,SAP Finance,Failed,116,674161,9
+2026-05-26,RCM-002,Payer mix and reimbursement report,SAP Finance,Warning,80,562314,2
+2026-05-26,OPS-001,Volume and capacity dashboard,Claims Clearinghouse,Succeeded,84,898185,3
+2026-05-26,OPS-002,Ancillary utilization scorecard,Epic Resolute,Warning,53,466823,0
+2026-05-26,FPA-001,Forecast version bridge,Workday Payroll,Failed,78,46320,4
+2026-05-26,FPA-002,Budget owner review packet,Strata Planning,Warning,90,914871,0
+2026-05-26,GOV-001,Metric certification tracker,SAP Finance,Succeeded,75,178797,1
+2026-05-26,GOV-002,Dashboard adoption and intake queue,Claims Clearinghouse,Succeeded,70,617485,0
+2026-05-27,FIN-001,Monthly close executive packet,Claims Clearinghouse,Warning,26,445414,1
+2026-05-27,FIN-002,Service line margin review,SAP Finance,Warning,69,140844,0
+2026-05-27,FIN-003,Labor productivity monitor,Claims Clearinghouse,Succeeded,64,166900,2
+2026-05-27,FIN-004,Supply cost variance board,SAP Finance,Failed,52,149615,12
+2026-05-27,RCM-001,Denials and A/R command center,Claims Clearinghouse,Warning,68,849686,1
+2026-05-27,RCM-002,Payer mix and reimbursement report,SAP Finance,Warning,45,515491,1
+2026-05-27,OPS-001,Volume and capacity dashboard,Strata Planning,Succeeded,40,786519,4
+2026-05-27,OPS-002,Ancillary utilization scorecard,SAP Finance,Succeeded,31,788471,3
+2026-05-27,FPA-001,Forecast version bridge,Epic Resolute,Succeeded,14,890233,2
+2026-05-27,FPA-002,Budget owner review packet,SAP Finance,Succeeded,19,73514,2
+2026-05-27,GOV-001,Metric certification tracker,Workday Payroll,Succeeded,38,166786,2
+2026-05-27,GOV-002,Dashboard adoption and intake queue,Epic Resolute,Succeeded,64,947442,1
+2026-05-28,FIN-001,Monthly close executive packet,Workday Payroll,Failed,120,721905,8
+2026-05-28,FIN-002,Service line margin review,SAP Finance,Succeeded,31,33803,2
+2026-05-28,FIN-003,Labor productivity monitor,Claims Clearinghouse,Succeeded,76,38946,1
+2026-05-28,FIN-004,Supply cost variance board,SAP Finance,Succeeded,14,276331,1
+2026-05-28,RCM-001,Denials and A/R command center,Strata Planning,Failed,94,536123,9
+2026-05-28,RCM-002,Payer mix and reimbursement report,Workday Payroll,Succeeded,85,779360,0
+2026-05-28,OPS-001,Volume and capacity dashboard,Strata Planning,Succeeded,44,258417,3
+2026-05-28,OPS-002,Ancillary utilization scorecard,Strata Planning,Succeeded,58,430927,0
+2026-05-28,FPA-001,Forecast version bridge,Strata Planning,Succeeded,41,321971,2
+2026-05-28,FPA-002,Budget owner review packet,Claims Clearinghouse,Succeeded,21,457573,4
+2026-05-28,GOV-001,Metric certification tracker,Epic Resolute,Warning,43,514635,4
+2026-05-28,GOV-002,Dashboard adoption and intake queue,Workday Payroll,Warning,74,345480,0

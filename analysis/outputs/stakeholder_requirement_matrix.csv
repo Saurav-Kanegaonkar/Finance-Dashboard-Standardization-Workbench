@@ -1,0 +1,55 @@
+requirement_id,dashboard_id,dashboard_name,stakeholder_group,requirement,priority,status,complexity,business_impact_score,mapped_metric_id,target_release
+REQ-048,RCM-001,Denials and A/R command center,Finance directors,publish monthly close exception list,High,Ready for release,1,98,SL01-DENIAL_RATE,2026-09
+REQ-016,FPA-001,Forecast version bridge,Revenue cycle leaders,add payer drill through for margin movement,High,Design,3,94,SL03-NET_REV,2026-08
+REQ-026,FIN-004,Supply cost variance board,Revenue cycle leaders,create certified KPI definition tooltip,High,UAT,1,87,SL04-OP_MARGIN,2026-08
+REQ-035,GOV-001,Metric certification tracker,Finance directors,add payer drill through for margin movement,High,Design,4,87,SL04-OP_MARGIN,2026-07
+REQ-043,FIN-002,Service line margin review,Operations executives,publish monthly close exception list,High,Build,4,87,SL04-LABOR_CASE,2026-06
+REQ-042,OPS-002,Ancillary utilization scorecard,Revenue cycle leaders,add payer drill through for margin movement,High,Build,5,86,SL06-AR_DAYS,2026-08
+REQ-028,FPA-002,Budget owner review packet,Revenue cycle leaders,publish monthly close exception list,High,Design,1,82,SL08-OP_MARGIN,2026-08
+REQ-045,OPS-001,Volume and capacity dashboard,Finance directors,show refresh status and source owner,High,Build,4,82,SL03-SUPPLY_CASE,2026-06
+REQ-018,FPA-002,Budget owner review packet,Finance directors,standardize service line filter behavior,High,Build,3,80,SL06-CASE_MIX,2026-09
+REQ-038,FIN-001,Monthly close executive packet,Finance directors,add payer drill through for margin movement,High,UAT,5,80,SL01-AR_DAYS,2026-08
+REQ-005,OPS-002,Ancillary utilization scorecard,Finance directors,replace Excel reconciliation tab,High,Design,3,77,SL01-FORECAST_ACC,2026-08
+REQ-009,FIN-002,Service line margin review,Revenue cycle leaders,publish monthly close exception list,High,Ready for release,4,77,SL02-BUDGET_VAR,2026-08
+REQ-010,GOV-002,Dashboard adoption and intake queue,FP&A partners,standardize service line filter behavior,High,Design,5,76,SL05-CASE_MIX,2026-06
+REQ-032,FIN-004,Supply cost variance board,Finance directors,standardize service line filter behavior,High,Design,1,75,SL03-VOLUME,2026-06
+REQ-036,GOV-001,Metric certification tracker,Finance directors,map report output to SAC planning version,High,Design,2,74,SL03-OP_MARGIN,2026-06
+REQ-023,FIN-001,Monthly close executive packet,Operations executives,create certified KPI definition tooltip,High,UAT,2,73,SL02-BUDGET_VAR,2026-09
+REQ-047,FPA-002,Budget owner review packet,Revenue cycle leaders,standardize service line filter behavior,High,Ready for release,3,73,SL06-LABOR_CASE,2026-09
+REQ-003,RCM-002,Payer mix and reimbursement report,Operations executives,show refresh status and source owner,High,Ready for release,3,72,SL08-DENIAL_RATE,2026-06
+REQ-024,FPA-001,Forecast version bridge,FP&A partners,standardize service line filter behavior,High,UAT,3,72,SL06-SUPPLY_CASE,2026-09
+REQ-006,GOV-001,Metric certification tracker,Finance directors,publish monthly close exception list,High,Design,2,70,SL03-SUPPLY_CASE,2026-06
+REQ-021,OPS-002,Ancillary utilization scorecard,FP&A partners,show refresh status and source owner,High,Discovery,4,68,SL08-DENIAL_RATE,2026-08
+REQ-054,OPS-001,Volume and capacity dashboard,FP&A partners,add security group and data access notes,High,Design,5,67,SL01-VOLUME,2026-09
+REQ-053,OPS-001,Volume and capacity dashboard,Operations executives,add payer drill through for margin movement,High,Discovery,4,66,SL06-NET_REV,2026-09
+REQ-007,FIN-001,Monthly close executive packet,Revenue cycle leaders,add security group and data access notes,High,UAT,1,64,SL04-FORECAST_ACC,2026-07
+REQ-004,OPS-002,Ancillary utilization scorecard,Operations executives,add security group and data access notes,High,Design,2,64,SL04-VOLUME,2026-06
+REQ-022,FPA-002,Budget owner review packet,Operations executives,standardize service line filter behavior,High,Discovery,5,59,SL06-CASE_MIX,2026-09
+REQ-030,RCM-001,Denials and A/R command center,Operations executives,add payer drill through for margin movement,High,Design,3,57,SL07-OP_MARGIN,2026-06
+REQ-050,FIN-003,Labor productivity monitor,Operations executives,show refresh status and source owner,High,Discovery,5,57,SL06-DENIAL_RATE,2026-08
+REQ-034,FIN-002,Service line margin review,FP&A partners,show budget to actual variance by cost center,High,Build,5,56,SL05-DENIAL_RATE,2026-09
+REQ-008,FIN-001,Monthly close executive packet,FP&A partners,align Power BI page titles to finance taxonomy,Medium,Design,2,97,SL06-OP_MARGIN,2026-09
+REQ-014,OPS-001,Volume and capacity dashboard,FP&A partners,standardize service line filter behavior,Medium,Build,4,95,SL08-LABOR_CASE,2026-07
+REQ-049,OPS-001,Volume and capacity dashboard,FP&A partners,align Power BI page titles to finance taxonomy,Medium,Ready for release,1,92,SL08-NET_REV,2026-06
+REQ-027,OPS-001,Volume and capacity dashboard,Finance directors,publish monthly close exception list,Medium,Build,2,91,SL02-FORECAST_ACC,2026-09
+REQ-013,OPS-002,Ancillary utilization scorecard,Revenue cycle leaders,map report output to SAC planning version,Medium,Discovery,4,91,SL04-OP_MARGIN,2026-09
+REQ-052,FIN-003,Labor productivity monitor,FP&A partners,show budget to actual variance by cost center,Medium,UAT,3,90,SL03-BUDGET_VAR,2026-08
+REQ-046,FPA-001,Forecast version bridge,Operations executives,map report output to SAC planning version,Medium,UAT,1,89,SL04-OP_MARGIN,2026-07
+REQ-025,GOV-002,Dashboard adoption and intake queue,Finance directors,standardize service line filter behavior,Medium,UAT,2,89,SL05-DENIAL_RATE,2026-08
+REQ-029,OPS-002,Ancillary utilization scorecard,Finance directors,show refresh status and source owner,Medium,UAT,2,89,SL07-OP_MARGIN,2026-06
+REQ-012,FPA-001,Forecast version bridge,Revenue cycle leaders,replace Excel reconciliation tab,Medium,Design,4,86,SL08-CASE_MIX,2026-07
+REQ-015,RCM-001,Denials and A/R command center,Revenue cycle leaders,add payer drill through for margin movement,Medium,Discovery,1,83,SL05-NET_REV,2026-07
+REQ-019,OPS-001,Volume and capacity dashboard,Revenue cycle leaders,add payer drill through for margin movement,Medium,UAT,1,83,SL06-FORECAST_ACC,2026-06
+REQ-037,FPA-002,Budget owner review packet,Operations executives,add security group and data access notes,Medium,Design,1,82,SL07-LABOR_CASE,2026-09
+REQ-051,RCM-002,Payer mix and reimbursement report,Finance directors,add payer drill through for margin movement,Medium,UAT,3,82,SL07-FORECAST_ACC,2026-07
+REQ-001,FIN-003,Labor productivity monitor,Finance directors,publish monthly close exception list,Medium,Design,4,78,SL07-SUPPLY_CASE,2026-06
+REQ-020,GOV-002,Dashboard adoption and intake queue,FP&A partners,add security group and data access notes,Medium,Ready for release,1,75,SL01-CASE_MIX,2026-06
+REQ-002,OPS-001,Volume and capacity dashboard,Revenue cycle leaders,publish monthly close exception list,Medium,Build,1,69,SL06-SUPPLY_CASE,2026-06
+REQ-011,RCM-002,Payer mix and reimbursement report,Operations executives,add payer drill through for margin movement,Watch,Ready for release,2,69,SL07-NET_REV,2026-06
+REQ-033,GOV-001,Metric certification tracker,FP&A partners,map report output to SAC planning version,Medium,Build,2,65,SL08-SUPPLY_CASE,2026-07
+REQ-044,OPS-001,Volume and capacity dashboard,Finance directors,show budget to actual variance by cost center,Medium,Build,4,64,SL01-FORECAST_ACC,2026-08
+REQ-041,OPS-001,Volume and capacity dashboard,Operations executives,add payer drill through for margin movement,Watch,UAT,3,63,SL04-VOLUME,2026-07
+REQ-017,FIN-003,Labor productivity monitor,Operations executives,replace Excel reconciliation tab,Watch,UAT,5,63,SL08-NET_REV,2026-09
+REQ-039,FIN-001,Monthly close executive packet,Revenue cycle leaders,add payer drill through for margin movement,Medium,Design,2,60,SL02-DENIAL_RATE,2026-06
+REQ-031,FIN-004,Supply cost variance board,Revenue cycle leaders,show budget to actual variance by cost center,Medium,Discovery,3,57,SL03-CASE_MIX,2026-09
+REQ-040,GOV-001,Metric certification tracker,Revenue cycle leaders,map report output to SAC planning version,Medium,Build,5,57,SL06-DENIAL_RATE,2026-08

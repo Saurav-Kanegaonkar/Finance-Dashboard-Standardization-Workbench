@@ -1,0 +1,81 @@
+metric_id,metric_name,service_line,domain,unit,grain,definition,owner,power_bi_measure,certified_status,sac_ready
+SL01-NET_REV,Net revenue,Cardiology,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,Revenue Cycle,[Cardiology Net revenue],Draft,No
+SL01-OP_MARGIN,Operating margin,Cardiology,Finance,Percent,Actuals,Operating income divided by net revenue.,Finance Analytics,[Cardiology Operating margin],Certified,Yes
+SL01-LABOR_CASE,Labor cost per case,Cardiology,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,Revenue Cycle,[Cardiology Labor cost per case],Certified,Yes
+SL01-DENIAL_RATE,Initial denial rate,Cardiology,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,Operations Analytics,[Cardiology Initial denial rate],Certified,Yes
+SL01-AR_DAYS,A/R days,Cardiology,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,Revenue Cycle,[Cardiology A/R days],Certified,Yes
+SL01-SUPPLY_CASE,Supply cost per case,Cardiology,Finance,USD,Actuals,Supply expense divided by adjusted cases.,Finance Analytics,[Cardiology Supply cost per case],Certified,Yes
+SL01-BUDGET_VAR,Budget variance,Cardiology,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",FP&A,[Cardiology Budget variance],Certified,Yes
+SL01-FORECAST_ACC,Forecast accuracy,Cardiology,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Finance Analytics,[Cardiology Forecast accuracy],Certified,Yes
+SL01-CASE_MIX,Case mix index,Cardiology,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,Operations Analytics,[Cardiology Case mix index],Certified,Yes
+SL01-VOLUME,Adjusted cases,Cardiology,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,Revenue Cycle,[Cardiology Adjusted cases],Certified,Yes
+SL02-NET_REV,Net revenue,Oncology,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,Finance Analytics,[Oncology Net revenue],Certified,Yes
+SL02-OP_MARGIN,Operating margin,Oncology,Finance,Percent,Actuals,Operating income divided by net revenue.,Operations Analytics,[Oncology Operating margin],Draft,No
+SL02-LABOR_CASE,Labor cost per case,Oncology,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,FP&A,[Oncology Labor cost per case],Certified,Yes
+SL02-DENIAL_RATE,Initial denial rate,Oncology,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,FP&A,[Oncology Initial denial rate],Certified,Yes
+SL02-AR_DAYS,A/R days,Oncology,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,FP&A,[Oncology A/R days],Certified,Yes
+SL02-SUPPLY_CASE,Supply cost per case,Oncology,Finance,USD,Actuals,Supply expense divided by adjusted cases.,FP&A,[Oncology Supply cost per case],Certified,Yes
+SL02-BUDGET_VAR,Budget variance,Oncology,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",Revenue Cycle,[Oncology Budget variance],Certified,Yes
+SL02-FORECAST_ACC,Forecast accuracy,Oncology,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Finance Analytics,[Oncology Forecast accuracy],Conflicting logic,No
+SL02-CASE_MIX,Case mix index,Oncology,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,Finance Analytics,[Oncology Case mix index],Certified,Yes
+SL02-VOLUME,Adjusted cases,Oncology,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,Finance Analytics,[Oncology Adjusted cases],Certified,Yes
+SL03-NET_REV,Net revenue,Orthopedics,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,Finance Analytics,[Orthopedics Net revenue],Certified,Yes
+SL03-OP_MARGIN,Operating margin,Orthopedics,Finance,Percent,Actuals,Operating income divided by net revenue.,Revenue Cycle,[Orthopedics Operating margin],Certified,Yes
+SL03-LABOR_CASE,Labor cost per case,Orthopedics,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,FP&A,[Orthopedics Labor cost per case],Draft,No
+SL03-DENIAL_RATE,Initial denial rate,Orthopedics,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,Finance Analytics,[Orthopedics Initial denial rate],Certified,Yes
+SL03-AR_DAYS,A/R days,Orthopedics,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,Operations Analytics,[Orthopedics A/R days],Certified,Yes
+SL03-SUPPLY_CASE,Supply cost per case,Orthopedics,Finance,USD,Actuals,Supply expense divided by adjusted cases.,FP&A,[Orthopedics Supply cost per case],Needs owner,No
+SL03-BUDGET_VAR,Budget variance,Orthopedics,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",Finance Analytics,[Orthopedics Budget variance],Certified,Yes
+SL03-FORECAST_ACC,Forecast accuracy,Orthopedics,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Finance Analytics,[Orthopedics Forecast accuracy],Certified,Yes
+SL03-CASE_MIX,Case mix index,Orthopedics,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,FP&A,[Orthopedics Case mix index],Certified,No
+SL03-VOLUME,Adjusted cases,Orthopedics,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,FP&A,[Orthopedics Adjusted cases],Certified,No
+SL04-NET_REV,Net revenue,Emergency,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,Revenue Cycle,[Emergency Net revenue],Certified,Yes
+SL04-OP_MARGIN,Operating margin,Emergency,Finance,Percent,Actuals,Operating income divided by net revenue.,Operations Analytics,[Emergency Operating margin],Certified,No
+SL04-LABOR_CASE,Labor cost per case,Emergency,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,FP&A,[Emergency Labor cost per case],Certified,Yes
+SL04-DENIAL_RATE,Initial denial rate,Emergency,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,Operations Analytics,[Emergency Initial denial rate],Certified,Yes
+SL04-AR_DAYS,A/R days,Emergency,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,FP&A,[Emergency A/R days],Certified,No
+SL04-SUPPLY_CASE,Supply cost per case,Emergency,Finance,USD,Actuals,Supply expense divided by adjusted cases.,Finance Analytics,[Emergency Supply cost per case],Certified,Yes
+SL04-BUDGET_VAR,Budget variance,Emergency,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",FP&A,[Emergency Budget variance],Certified,No
+SL04-FORECAST_ACC,Forecast accuracy,Emergency,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Finance Analytics,[Emergency Forecast accuracy],Certified,No
+SL04-CASE_MIX,Case mix index,Emergency,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,Operations Analytics,[Emergency Case mix index],Certified,Yes
+SL04-VOLUME,Adjusted cases,Emergency,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,Revenue Cycle,[Emergency Adjusted cases],Draft,No
+SL05-NET_REV,Net revenue,Women's Health,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,FP&A,[Women's Health Net revenue],Certified,Yes
+SL05-OP_MARGIN,Operating margin,Women's Health,Finance,Percent,Actuals,Operating income divided by net revenue.,FP&A,[Women's Health Operating margin],Needs owner,No
+SL05-LABOR_CASE,Labor cost per case,Women's Health,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,Revenue Cycle,[Women's Health Labor cost per case],Certified,No
+SL05-DENIAL_RATE,Initial denial rate,Women's Health,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,Operations Analytics,[Women's Health Initial denial rate],Certified,Yes
+SL05-AR_DAYS,A/R days,Women's Health,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,FP&A,[Women's Health A/R days],Certified,Yes
+SL05-SUPPLY_CASE,Supply cost per case,Women's Health,Finance,USD,Actuals,Supply expense divided by adjusted cases.,FP&A,[Women's Health Supply cost per case],Certified,Yes
+SL05-BUDGET_VAR,Budget variance,Women's Health,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",Operations Analytics,[Women's Health Budget variance],Certified,No
+SL05-FORECAST_ACC,Forecast accuracy,Women's Health,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Operations Analytics,[Women's Health Forecast accuracy],Certified,Yes
+SL05-CASE_MIX,Case mix index,Women's Health,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,Operations Analytics,[Women's Health Case mix index],Certified,Yes
+SL05-VOLUME,Adjusted cases,Women's Health,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,Revenue Cycle,[Women's Health Adjusted cases],Certified,Yes
+SL06-NET_REV,Net revenue,Imaging,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,Operations Analytics,[Imaging Net revenue],Conflicting logic,No
+SL06-OP_MARGIN,Operating margin,Imaging,Finance,Percent,Actuals,Operating income divided by net revenue.,Operations Analytics,[Imaging Operating margin],Certified,Yes
+SL06-LABOR_CASE,Labor cost per case,Imaging,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,Finance Analytics,[Imaging Labor cost per case],Conflicting logic,No
+SL06-DENIAL_RATE,Initial denial rate,Imaging,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,Operations Analytics,[Imaging Initial denial rate],Certified,No
+SL06-AR_DAYS,A/R days,Imaging,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,Revenue Cycle,[Imaging A/R days],Certified,Yes
+SL06-SUPPLY_CASE,Supply cost per case,Imaging,Finance,USD,Actuals,Supply expense divided by adjusted cases.,FP&A,[Imaging Supply cost per case],Conflicting logic,No
+SL06-BUDGET_VAR,Budget variance,Imaging,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",Finance Analytics,[Imaging Budget variance],Certified,Yes
+SL06-FORECAST_ACC,Forecast accuracy,Imaging,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Operations Analytics,[Imaging Forecast accuracy],Certified,Yes
+SL06-CASE_MIX,Case mix index,Imaging,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,Finance Analytics,[Imaging Case mix index],Certified,Yes
+SL06-VOLUME,Adjusted cases,Imaging,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,Finance Analytics,[Imaging Adjusted cases],Certified,Yes
+SL07-NET_REV,Net revenue,Primary Care,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,Finance Analytics,[Primary Care Net revenue],Certified,Yes
+SL07-OP_MARGIN,Operating margin,Primary Care,Finance,Percent,Actuals,Operating income divided by net revenue.,Operations Analytics,[Primary Care Operating margin],Certified,Yes
+SL07-LABOR_CASE,Labor cost per case,Primary Care,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,Revenue Cycle,[Primary Care Labor cost per case],Certified,Yes
+SL07-DENIAL_RATE,Initial denial rate,Primary Care,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,Operations Analytics,[Primary Care Initial denial rate],Certified,Yes
+SL07-AR_DAYS,A/R days,Primary Care,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,FP&A,[Primary Care A/R days],Certified,Yes
+SL07-SUPPLY_CASE,Supply cost per case,Primary Care,Finance,USD,Actuals,Supply expense divided by adjusted cases.,Revenue Cycle,[Primary Care Supply cost per case],Certified,No
+SL07-BUDGET_VAR,Budget variance,Primary Care,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",FP&A,[Primary Care Budget variance],Certified,Yes
+SL07-FORECAST_ACC,Forecast accuracy,Primary Care,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Finance Analytics,[Primary Care Forecast accuracy],Certified,Yes
+SL07-CASE_MIX,Case mix index,Primary Care,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,Revenue Cycle,[Primary Care Case mix index],Certified,No
+SL07-VOLUME,Adjusted cases,Primary Care,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,FP&A,[Primary Care Adjusted cases],Certified,Yes
+SL08-NET_REV,Net revenue,Behavioral Health,Finance,USD,Actuals,Sum of posted net revenue after contractual adjustments.,Finance Analytics,[Behavioral Health Net revenue],Needs owner,No
+SL08-OP_MARGIN,Operating margin,Behavioral Health,Finance,Percent,Actuals,Operating income divided by net revenue.,FP&A,[Behavioral Health Operating margin],Conflicting logic,No
+SL08-LABOR_CASE,Labor cost per case,Behavioral Health,Finance,USD,Actuals,Direct labor expense divided by adjusted cases.,Revenue Cycle,[Behavioral Health Labor cost per case],Certified,Yes
+SL08-DENIAL_RATE,Initial denial rate,Behavioral Health,Revenue Cycle,Percent,Claims,Denied claims divided by submitted claims.,Finance Analytics,[Behavioral Health Initial denial rate],Certified,No
+SL08-AR_DAYS,A/R days,Behavioral Health,Revenue Cycle,Days,Claims,Net accounts receivable divided by average daily net revenue.,Operations Analytics,[Behavioral Health A/R days],Certified,Yes
+SL08-SUPPLY_CASE,Supply cost per case,Behavioral Health,Finance,USD,Actuals,Supply expense divided by adjusted cases.,Operations Analytics,[Behavioral Health Supply cost per case],Needs owner,No
+SL08-BUDGET_VAR,Budget variance,Behavioral Health,FP&A,Percent,Planning,"Actual expense minus budget, divided by budget.",Revenue Cycle,[Behavioral Health Budget variance],Certified,No
+SL08-FORECAST_ACC,Forecast accuracy,Behavioral Health,FP&A,Percent,Planning,One minus absolute forecast error divided by actuals.,Revenue Cycle,[Behavioral Health Forecast accuracy],Draft,No
+SL08-CASE_MIX,Case mix index,Behavioral Health,Operations,Index,Clinical,Weighted clinical acuity index used for finance normalization.,Revenue Cycle,[Behavioral Health Case mix index],Certified,No
+SL08-VOLUME,Adjusted cases,Behavioral Health,Operations,Count,Clinical,Inpatient and equivalent outpatient case volume.,Revenue Cycle,[Behavioral Health Adjusted cases],Certified,Yes
